@@ -48,6 +48,7 @@ sbtnews.com.br
 jovempan.com.br
 itatiaia.com.br
 
+
 # ----------------------------------------
 # JORNALISMO, POLÍTICA & OPINIÃO (BR)
 # ----------------------------------------
@@ -82,6 +83,22 @@ zerohora.clicrbs.com.br
 diariodepernambuco.com.br
 gazetaonline.com.br
 nsctotal.com.br
+gauchazh.clicrbs.com.br
+diariodonordeste.verdesmares.com.br
+bahianoticias.com.br
+campograndenews.com.br
+midiamax.uol.com.br
+ndmais.com.br
+bemparana.com.br
+tribunapr.com.br
+folhavitoria.com.br
+acidadeon.com
+otempo.com.br
+hojeemdia.com.br
+diariodegoias.com.br
+jornalopcao.com.br
+bnews.com.br
+diariodopoder.com.br
 
 # ----------------------------------------
 # MÍDIA INTERNACIONAL & AGÊNCIAS
@@ -111,6 +128,25 @@ lemonde.fr
 elpais.com
 spiegel.de
 dw.com
+npr.org
+politico.com
+politico.eu
+axios.com
+euronews.com
+france24.com
+news.sky.com
+cbc.ca
+scmp.com
+latimes.com
+usatoday.com
+bostonglobe.com
+nypost.com
+theatlantic.com
+newyorker.com
+dailymail.co.uk
+express.co.uk
+standard.co.uk
+spectator.co.uk
 
 # ----------------------------------------
 # REVISTAS, CULTURA POP & AGREGADORES
@@ -126,3 +162,44 @@ wired.com
 gizmodo.com
 mashable.com
 techcrunch.com
+
+# ----------------------------------------
+# ECONOMIA, MERCADO
+# ----------------------------------------
+forbes.com
+forbes.com.br
+cnbc.com
+marketwatch.com
+businessinsider.com
+fortune.com
+investing.com
+benzinga.com
+economist.com
+fastcompany.com
+
+# ----------------------------------------
+# AGREGADORES
+# ----------------------------------------
+www.msn.com
+msn.com
+news.yahoo.com
+flipboard.com
+smartnews.com
+ground.news
+newsbreak.com
+upday.com
+
+# ----------------------------------------
+# ESPORTE
+# ----------------------------------------
+lance.com.br
+espn.com.br
+espn.com
+goal.com
+sportingnews.com
+trivela.com.br
+gazetaesportiva.com
+placar.com.br
+torcedores.com
+90min.com
+onefootball.com
