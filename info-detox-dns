@@ -1,0 +1,128 @@
+# Title: News Detox Blocklist
+# Description: DNS blocklist para bloqueio de portais de notícias e jornais.
+# Format: Pi-hole / AdGuard Home (Domains only)
+# ==============================================================================
+#
+# SOBRE ESTA LISTA / ABOUT THIS LIST:
+# O objetivo desta lista é estritamente pessoal, focado em saúde mental, 
+# produtividade e "Information Detox" (Desintoxicação de Informação). 
+# 
+# A superexposição ao ciclo contínuo de notícias (Doomscrolling) é uma causa 
+# comprovada de ansiedade, estresse e perda de foco crônica. Esta lista atua 
+# como uma barreira técnica voluntária para evitar o consumo passivo e o 
+# bombardeio de manchetes sensacionalistas durante o horário de trabalho, 
+# estudo ou lazer.
+#
+# AVISO IMPORTANTE (DISCLAIMER):
+# - Esta lista NÃO é um boicote político, ideológico ou financeiro a nenhum 
+#   veículo de imprensa.
+# - O bloqueio de um domínio não reflete um juízo de valor sobre a qualidade, 
+#   linha editorial ou veracidade do portal.
+# - Não há intenção de censura. O uso desta lista é uma escolha individual de 
+#   quem deseja retomar o controle sobre a própria atenção e reduzir o ruído 
+#   digital.
+#
+# ==============================================================================
+
+# ----------------------------------------
+# PORTAIS NACIONAIS BRASIL (Geral & TV)
+# ----------------------------------------
+g1.globo.com
+oglobo.globo.com
+extra.globo.com
+valor.globo.com
+uol.com.br
+noticias.uol.com.br
+folha.uol.com.br
+estadao.com.br
+r7.com
+noticias.r7.com
+terra.com.br
+metropoles.com
+cnnbrasil.com.br
+band.uol.com.br
+ig.com.br
+sbtnews.com.br
+jovempan.com.br
+itatiaia.com.br
+
+# ----------------------------------------
+# JORNALISMO, POLÍTICA & OPINIÃO (BR)
+# ----------------------------------------
+poder360.com.br
+veja.abril.com.br
+istoe.com.br
+exame.com
+infomoney.com.br
+gazetadopovo.com.br
+cartacapital.com.br
+nexojornal.com.br
+oantagonista.com.br
+revistaforum.com.br
+brasil247.com
+catracalivre.com.br
+conjur.com.br
+jornaldacidadeonline.com.br
+brasildefato.com.br
+diariodocentrodomundo.com.br
+intercept.com.br
+
+# ----------------------------------------
+# JORNAIS REGIONAIS BRASILEIROS
+# ----------------------------------------
+correiobraziliense.com.br
+em.com.br
+opovo.com.br
+jc.ne10.uol.com.br
+atarde.com.br
+zerohora.clicrbs.com.br
+diariodepernambuco.com.br
+gazetaonline.com.br
+nsctotal.com.br
+
+# ----------------------------------------
+# MÍDIA INTERNACIONAL & AGÊNCIAS
+# ----------------------------------------
+bbc.com
+bbc.co.uk
+nytimes.com
+cnn.com
+reuters.com
+bloomberg.com
+aljazeera.com
+theguardian.com
+washingtonpost.com
+foxnews.com
+nbcnews.com
+cbsnews.com
+abcnews.go.com
+wsj.com
+ft.com
+apnews.com
+afp.com
+time.com
+newsweek.com
+independent.co.uk
+telegraph.co.uk
+lemonde.fr
+elpais.com
+spiegel.de
+dw.com
+
+# ----------------------------------------
+# REVISTAS, CULTURA POP & AGREGADORES
+# ----------------------------------------
+news.google.com
+news.yahoo.com
+huffpost.com
+buzzfeednews.com
+vice.com
+vox.com
+theverge.com
+wired.com
+gizmodo.com
+mashable.com
+techcrunch.com
+tecmundo.com.br
+olhardigital.com.br
+canaltech.com.br
